@@ -12,7 +12,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "next": "15.3.4",
-    "@zoom/videosdk": "^3.8.5",
+    "@zoom/videosdk": "^1.10.10",
     "axios": "^1.7.7",
     "openai": "^4.67.3",
     "jsonwebtoken": "^9.0.2",
